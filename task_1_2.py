@@ -1,4 +1,3 @@
-# a.
 cub_num = []
 for i in range(1, 1000):
     a = i ** 3
@@ -23,8 +22,7 @@ for i in cub_num:
 
 print(num_7)
 
-# b.
-s = '.' # Точка для проверки
+s = '.'
 for i in num_7:
     n = i + 17
     n1 = n % 10
