@@ -43,7 +43,3 @@ for i in num_7:
         s += str(i) + '.'
 
 print(s)
-
-
-
-
