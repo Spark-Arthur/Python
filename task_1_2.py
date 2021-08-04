@@ -1,4 +1,3 @@
-# a.
 cub_num = []
 for i in range(1, 1000):
     a = i ** 3

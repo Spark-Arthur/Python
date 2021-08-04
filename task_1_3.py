@@ -1,4 +1,4 @@
-# a.
+
 for i in range(1, 101):
     if i == 1 or i == 21 or i == 31 or i == 41 or i == 51 or i == 61 or i == 71 or i == 81 or i == 91:
         print(f'{i} процент')
