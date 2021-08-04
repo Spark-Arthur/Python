@@ -2,9 +2,7 @@ duration = 400153
 d_num = 86400
 h_num = 3600
 m_num = 60
-
 d = duration // d_num
-
 h1 = duration - (d_num * d)
 h = h1 // h_num
 

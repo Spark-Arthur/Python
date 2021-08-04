@@ -1,4 +1,4 @@
-# а.
+# a.
 cub_num = []
 for i in range(1, 1000):
     a = i ** 3
@@ -23,7 +23,7 @@ for i in cub_num:
 
 print(num_7)
 
-# б.
+# b.
 s = '.' # Точка для проверки
 for i in num_7:
     n = i + 17
