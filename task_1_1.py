@@ -11,7 +11,6 @@ m = m1 // m_num
 
 s = m1 - (m_num * m)
 
-
 if m == 0:
     print(f'{s} сек')
 elif h == 0:
